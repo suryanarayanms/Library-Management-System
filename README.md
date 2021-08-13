@@ -1,1 +1,1 @@
-# Library-Management-System-
+This application provides a computerized version of library management system which will benefit the students. It makes more interactive user friendly and project which fulfills each users need in the best way possible.
